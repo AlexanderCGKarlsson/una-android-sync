@@ -28,7 +28,7 @@ kotlin {
 
 dependencies {
     api(project(":crypto-core"))
-    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.10.2")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.11.0")
 
     // @dev This explicit JNA version provides Android 16 KB memory-page support instead of using
     // the older transitive version from the Convex client.
