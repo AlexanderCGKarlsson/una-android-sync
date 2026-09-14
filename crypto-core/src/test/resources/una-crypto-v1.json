@@ -1,0 +1,17 @@
+{
+  "warning": "Public deterministic Android development fixture only. Never use these values for live data.",
+  "payload": {
+    "keyBase64": "AAECAwQFBgcICQoLDA0ODxAREhMUFRYXGBkaGxwdHh8=",
+    "nonceBase64": "EBESExQVFhcYGRob",
+    "plaintextUtf8": "{\"name\":\"Una Android probe\"}",
+    "ciphertextBase64": "Btz2dySsGInoIGZ8LzgHN6U/J2o7siXehZzAGg==",
+    "tagBase64": "zfWl++RmHDqBzByYmOFtdw=="
+  },
+  "deviceEnvelope": {
+    "recipientPrivateKeyBase64": "UZtCPXFfi11Un4v60lFCrXsWpbtYbfqHsR1sZqB6CjU=",
+    "recipientPublicKeyX963Base64": "BGo5U94FsqcuQMJQpti4PBLNuErRvsNZWP25dbYI007r0oezSZoeCBBg8UdRpOvWTgQNZaE6CL4LXgjLUbiPq94=",
+    "ephemeralPublicKeyX963Base64": "BPOsgGG1FHlbiEPj1mKVJ+0q/WsfalVaesq7Xm95yMKsx7ubUUuW5k65zIDWJmLS40xxDSR3o0A0qNVVzpllyK4=",
+    "plaintextUtf8": "{\"1\":\"AAECAwQFBgcICQoLDA0ODxAREhMUFRYXGBkaGxwdHh8=\"}",
+    "envelopeBase64": "VURXMQTzrIBhtRR5W4hD49ZilSftKv1rH2pVWnrKu15vecjCrMe7m1FLluZOucyA1iZi0uNMcQ0kd6NANKjVVc6ZZciuISIjJCUmJygpKiss0/kjnlnOo29v6ncXIKWNS7a2fUkfkkAVYQovN3404hX3zIn8RnPMitgI5jLKHaEbnFZWo9bnkqi6P/j3xdUP1yGleo0="
+  }
+}
